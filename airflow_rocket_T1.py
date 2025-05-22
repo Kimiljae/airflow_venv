@@ -16,5 +16,9 @@ dag =DAG(
 print("DAG")
 print("DAG")
 print("DAG")
+print("DAG")
+print("DAG")
+print("DAG")
+print("DAG")
 #깃 리포지토리 초기화 - 파일추가 - 커밋 - 원격 저장소 푸시 이거 하고 잔다 내가 
 
